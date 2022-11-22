@@ -9,7 +9,7 @@ Caso deseje alterar os dados de entrada no arquivo CSV, reinicie a aplicação a
 
 ## API's disponíveis
 As API's foram implementadas utilizando o padrão RESTful e os endpoints podem ser consultados pela documentação do projeto implementada com a suíte swagger disponibilizada na URL http://localhost:8080/swagger-ui/ 
-Para obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido consulte o endpoint pela URL http://localhost:8080/awards-interval
+Para obter o produtor com maior intervalo entre dois prêmios consecutivos, e o que obteve dois prêmios mais rápido consulte o endpoint pela URL http://localhost:8080/awards-interval.
 
 ## Testes
 Para executar os testes de integração, execute a classe "AwardIntervalControllerTest.java" em sua IDE.
