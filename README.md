@@ -1,5 +1,5 @@
 ## texoit-api
-Aplicação com API RESTful para possibilitar a leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards
+Aplicação com API RESTful para possibilitar a leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards.
 
 ## Execução da Aplicação
 Para obter o projeto, primeiro clona o repositório à partir do Git Hub pela URL https://github.com/celestinofabiano/texoit-api e faça download do mesmo em sua IDE.
