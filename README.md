@@ -8,7 +8,7 @@ Ao inicializar a aplicação, o sistema vai ler um arquivo CSV "movielist.csv" q
 Caso deseje alterar os dados de entrada no arquivo CSV, reinicie a aplicação após finalizar a edição dos dados no arquivo.
 
 ## API's disponíveis
-As API's foram implementadas utilizando o padrão RESTful e os endpoints podem ser consultados pela URL de documentação do projeto: http://localhost:8080/swagger-ui/
+As API's foram implementadas utilizando o padrão RESTful e os endpoints podem ser consultados pela URL de documentação do projeto implementada com a suíte swagger: http://localhost:8080/swagger-ui/
 
 ## Testes
 Para executar os testes abra a classe AppTest.java, clique em Run -> Run As -> JUnit Test. Isso fará com que todos os testes de integração implementados sejam executados.
